@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "com.example.computech.app-merged_res-10:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.computech.app-main-12:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.computech.app-main-12:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/xml_backup_rules.xml.flat",
+        "source": "com.example.computech.app-main-12:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable_registrar.xml.flat",
+        "source": "com.example.computech.app-main-12:/drawable/registrar.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/layout_activity_menu.xml.flat",
+        "source": "com.example.computech.app-main-12:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-v24_ajustes.xml.flat",
+        "source": "com.example.computech.app-main-12:/drawable-v24/ajustes.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/layout_activity_registrar_usuario.xml.flat",
+        "source": "com.example.computech.app-main-12:/layout/activity_registrar_usuario.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-v24_comprar.xml.flat",
+        "source": "com.example.computech.app-main-12:/drawable-v24/comprar.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-mdpi_logo.png.flat",
+        "source": "com.example.computech.app-main-12:/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-xxhdpi_minticlogo.png.flat",
+        "source": "com.example.computech.app-main-12:/drawable-xxhdpi/minticlogo.png"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-mdpi_minticlogo.png.flat",
+        "source": "com.example.computech.app-main-12:/drawable-mdpi/minticlogo.png"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-v24_salir.xml.flat",
+        "source": "com.example.computech.app-main-12:/drawable-v24/salir.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-xxxhdpi_minticlogo.png.flat",
+        "source": "com.example.computech.app-main-12:/drawable-xxxhdpi/minticlogo.png"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-xhdpi_logo.png.flat",
+        "source": "com.example.computech.app-main-12:/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/layout_activity_main.xml.flat",
+        "source": "com.example.computech.app-main-12:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-xhdpi_mintic.png.flat",
+        "source": "com.example.computech.app-main-12:/drawable-xhdpi/mintic.png"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.computech.app-main-12:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-xxhdpi_mintic.png.flat",
+        "source": "com.example.computech.app-main-12:/drawable-xxhdpi/mintic.png"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-hdpi_minticlogo.png.flat",
+        "source": "com.example.computech.app-main-12:/drawable-hdpi/minticlogo.png"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/layout_activity_ajustes.xml.flat",
+        "source": "com.example.computech.app-main-12:/layout/activity_ajustes.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable_ingresar.xml.flat",
+        "source": "com.example.computech.app-main-12:/drawable/ingresar.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.computech.app-main-12:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.computech.app-main-12:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/layout_activity_comprar_usuario.xml.flat",
+        "source": "com.example.computech.app-main-12:/layout/activity_comprar_usuario.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/layout_activity_usuario.xml.flat",
+        "source": "com.example.computech.app-main-12:/layout/activity_usuario.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-mdpi_mintic.png.flat",
+        "source": "com.example.computech.app-main-12:/drawable-mdpi/mintic.png"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.computech.app-main-12:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-xxxhdpi_logo.png.flat",
+        "source": "com.example.computech.app-main-12:/drawable-xxxhdpi/logo.png"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-xhdpi_minticlogo.png.flat",
+        "source": "com.example.computech.app-main-12:/drawable-xhdpi/minticlogo.png"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-xxxhdpi_mintic.png.flat",
+        "source": "com.example.computech.app-main-12:/drawable-xxxhdpi/mintic.png"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-hdpi_mintic.png.flat",
+        "source": "com.example.computech.app-main-12:/drawable-hdpi/mintic.png"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.computech.app-main-12:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.computech.app-main-12:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.computech.app-main-12:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.computech.app-main-12:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.computech.app-main-12:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.computech.app-pngs-5:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-hdpi_logo.png.flat",
+        "source": "com.example.computech.app-main-12:/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.computech.app-main-12:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.computech.app-main-12:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/layout_activity_inicio_sesion.xml.flat",
+        "source": "com.example.computech.app-main-12:/layout/activity_inicio_sesion.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-v24_usuario.xml.flat",
+        "source": "com.example.computech.app-main-12:/drawable-v24/usuario.xml"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.computech.app-main-12:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.computech.app-merged_res-10:/drawable-xxhdpi_logo.png.flat",
+        "source": "com.example.computech.app-main-12:/drawable-xxhdpi/logo.png"
+    }
+]

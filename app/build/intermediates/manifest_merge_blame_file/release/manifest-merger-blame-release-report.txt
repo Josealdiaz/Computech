@@ -1,0 +1,137 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.computech"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:5:5-70:19
+12        android:allowBackup="true"
+12-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+13-->[com.android.support:support-compat:28.0.0] C:\Users\deiso\.gradle\caches\transforms-3\ecbd23666767c8ec76a81939f74c71e4\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:7:9-65
+15        android:fullBackupContent="@xml/backup_rules"
+15-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:8:9-54
+16        android:icon="@mipmap/ic_launcher"
+16-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:9:9-43
+17        android:label="@string/app_name"
+17-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:10:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:11:9-54
+19        android:supportsRtl="true"
+19-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:12:9-35
+20        android:theme="@style/Theme.CompuTech" >
+20-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:13:9-47
+21        <activity
+21-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:15:9-21:20
+22            android:name="com.example.computech.UsuarioActivity"
+22-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:16:13-44
+23            android:exported="false" >
+23-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:17:13-37
+24            <meta-data
+24-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:18:13-20:36
+25                android:name="android.app.lib_name"
+25-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:19:17-52
+26                android:value="" />
+26-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:20:17-33
+27        </activity>
+28        <activity
+28-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:22:9-28:20
+29            android:name="com.example.computech.AjustesActivity"
+29-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:23:13-44
+30            android:exported="false" >
+30-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:24:13-37
+31            <meta-data
+31-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:18:13-20:36
+32                android:name="android.app.lib_name"
+32-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:19:17-52
+33                android:value="" />
+33-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:20:17-33
+34        </activity>
+35        <activity
+35-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:29:9-35:20
+36            android:name="com.example.computech.ComprarUsuarioActivity"
+36-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:30:13-51
+37            android:exported="false" >
+37-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:31:13-37
+38            <meta-data
+38-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:18:13-20:36
+39                android:name="android.app.lib_name"
+39-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:19:17-52
+40                android:value="" />
+40-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:20:17-33
+41        </activity>
+42        <activity
+42-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:36:9-42:20
+43            android:name="com.example.computech.MenuActivity"
+43-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:37:13-41
+44            android:exported="false" >
+44-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:38:13-37
+45            <meta-data
+45-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:18:13-20:36
+46                android:name="android.app.lib_name"
+46-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:19:17-52
+47                android:value="" />
+47-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:20:17-33
+48        </activity>
+49        <activity
+49-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:43:9-49:20
+50            android:name="com.example.computech.RegistrarUsuarioActivity"
+50-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:44:13-53
+51            android:exported="false" >
+51-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:45:13-37
+52            <meta-data
+52-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:18:13-20:36
+53                android:name="android.app.lib_name"
+53-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:19:17-52
+54                android:value="" />
+54-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:20:17-33
+55        </activity>
+56        <activity
+56-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:50:9-56:20
+57            android:name="com.example.computech.InicioSesion"
+57-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:51:13-41
+58            android:exported="false" >
+58-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:52:13-37
+59            <meta-data
+59-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:18:13-20:36
+60                android:name="android.app.lib_name"
+60-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:19:17-52
+61                android:value="" />
+61-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:20:17-33
+62        </activity>
+63        <activity
+63-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:57:9-69:20
+64            android:name="com.example.computech.MainActivity"
+64-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:58:13-41
+65            android:exported="true" >
+65-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:59:13-36
+66            <intent-filter>
+66-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:60:13-64:29
+67                <action android:name="android.intent.action.MAIN" />
+67-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:61:17-69
+67-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:61:25-66
+68
+69                <category android:name="android.intent.category.LAUNCHER" />
+69-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:63:17-77
+69-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:63:27-74
+70            </intent-filter>
+71
+72            <meta-data
+72-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:18:13-20:36
+73                android:name="android.app.lib_name"
+73-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:19:17-52
+74                android:value="" />
+74-->D:\ProyectoAndroid\CompuTech\app\src\main\AndroidManifest.xml:20:17-33
+75        </activity>
+76    </application>
+77
+78</manifest>
