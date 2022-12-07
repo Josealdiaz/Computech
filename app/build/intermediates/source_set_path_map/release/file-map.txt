@@ -1,0 +1,13 @@
+com.example.computech.app-circleimageview-3.1.0-0 C:\Users\deiso\.gradle\caches\transforms-3\46550262f514ffafff46793d50667db5\transformed\circleimageview-3.1.0\res
+com.example.computech.app-appcompat-v7-28.0.0-1 C:\Users\deiso\.gradle\caches\transforms-3\6b4a2e82381d94828436df45404462f6\transformed\appcompat-v7-28.0.0\res
+com.example.computech.app-constraint-layout-2.0.4-2 C:\Users\deiso\.gradle\caches\transforms-3\a0ff3340122196c62dc7f7e74a22f7c5\transformed\constraint-layout-2.0.4\res
+com.example.computech.app-coordinatorlayout-28.0.0-3 C:\Users\deiso\.gradle\caches\transforms-3\b1633334360715cfe3a6f8adb06e849c\transformed\coordinatorlayout-28.0.0\res
+com.example.computech.app-support-compat-28.0.0-4 C:\Users\deiso\.gradle\caches\transforms-3\ecbd23666767c8ec76a81939f74c71e4\transformed\support-compat-28.0.0\res
+com.example.computech.app-pngs-5 D:\ProyectoAndroid\CompuTech\app\build\generated\res\pngs\release
+com.example.computech.app-resValues-6 D:\ProyectoAndroid\CompuTech\app\build\generated\res\resValues\release
+com.example.computech.app-rs-7 D:\ProyectoAndroid\CompuTech\app\build\generated\res\rs\release
+com.example.computech.app-packageReleaseResources-8 D:\ProyectoAndroid\CompuTech\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.computech.app-packageReleaseResources-9 D:\ProyectoAndroid\CompuTech\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.computech.app-merged_res-10 D:\ProyectoAndroid\CompuTech\app\build\intermediates\merged_res\release
+com.example.computech.app-main-11 D:\ProyectoAndroid\CompuTech\app\src\main\res
+com.example.computech.app-release-12 D:\ProyectoAndroid\CompuTech\app\src\release\res
